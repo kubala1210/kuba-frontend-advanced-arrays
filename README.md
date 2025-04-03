@@ -15,9 +15,6 @@
 
 ### :point_right: &nbsp; [`#01`](./01) &nbsp; [`#02`](./02) &nbsp; [`#03`](./03) &nbsp;  [`#04`](./04) &nbsp;  [`#05`](./05) &nbsp; :point_left:
 
-&nbsp;
-
-:arrow_left: [*poprzedni zestaw zadań (**JavaScript: Podstawy – funkcje**)*](https://github.com/devmentor-pl/practice-js-basics-functions)
 
 ## Jak wykonać zadania?
 
