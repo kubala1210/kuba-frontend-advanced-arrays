@@ -2,7 +2,7 @@ const n = 0;
 
 const allNumbers = [];
 
-for (let a = 0; a < n; a++) {
+for (let a = 0; a <= n; a++) {
     allNumbers.push(a);
 }
 
